@@ -1,0 +1,7 @@
+.video {
+  background: linear-gradient(
+    to top,
+    var(--header-bg-color) 50px,
+    white 50px 100%
+  );
+}
