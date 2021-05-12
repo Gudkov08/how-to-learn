@@ -3,4 +3,6 @@
   padding-bottom: 90px;
   position: relative;
   overflow: hidden;
+  background-color: var(--footer-bg-color);
+  color: #ffffff;
 }

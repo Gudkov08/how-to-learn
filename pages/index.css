@@ -1,6 +1,6 @@
 @import "../vendor/normalize.css";
 @import "../vendor/fonts.css";
-@import "../blocks/vars/vars.css";
+@import "../vars/vars.css";
 @import "../blocks/page/page.css";
 @import "../blocks/page/__wrapper/page__wrapper.css";
 @import "../blocks/header/header.css";
@@ -22,7 +22,9 @@
 @import "../blocks/two-columns/__span-accent/two-columns__span-accent.css";
 @import "../blocks/digits/digits.css";
 @import "../blocks/section-title/section-title.css";
+@import "../blocks/section-title/_theme/section-title_theme_dark.css";
 @import "../blocks/section-subtitle/section-subtitle.css";
+@import "../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css";
 @import "../blocks/video/video.css";
 @import "../blocks/video/__iframes/video__iframes.css";
 @import "../blocks/video/__iframe/video__iframe.css";
@@ -43,7 +45,6 @@
 @import "../blocks/table/__heading/table__heading.css";
 @import "../blocks/table/__text/table__text.css";
 @import "../blocks/kaufman/kaufman.css";
-@import "../blocks/kaufman/_theme/kaufman_theme_dark.css";
 @import "../blocks/kaufman/__triangle/kaufman__triangle.css";
 @import "../blocks/khan/khan.css";
 @import "../blocks/khan/__author/khan__author.css";
