@@ -6,3 +6,5 @@
 Использованные технологии: HTML, CSS, Flex, animation.
 
 Автор: Гудков Андрей.
+
+https://gudkov08.github.io/how-to-learn
